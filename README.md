@@ -27,3 +27,15 @@ sensors:
     indices: [1, 2, 3, 4, 5, 6, 7]
 
 ```
+
+usage:
+
+```:python thinkfan-hwmon-autoconf.py```
+
+replace the ```sensors:``` section in ```/etc/thinkfan.conf```
+make sure to keep the ```fans:``` and ```levels:```
+
+
+
+
+
